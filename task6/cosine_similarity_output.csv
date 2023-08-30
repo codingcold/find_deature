@@ -1,0 +1,11 @@
+x-coordinate,y-coordinate,Similarity_score
+combine_test/Bik dataset - papers with endpoint reached.tsv,combine_test/NSF-metadata.xlsx,0.9177826438423085
+combine_test/Bik dataset - papers with endpoint reached.tsv,combine_test/updated_bik_with_features.csv,0.9960472004296396
+combine_test/Bik dataset - papers with endpoint reached.tsv,combine_test/Colleges_and_Universities.csv,0.9959864596846503
+combine_test/Bik dataset - papers with endpoint reached.tsv,combine_test/QSrank.txt,0.9767338768364694
+combine_test/NSF-metadata.xlsx,combine_test/updated_bik_with_features.csv,0.9161070222383705
+combine_test/NSF-metadata.xlsx,combine_test/Colleges_and_Universities.csv,0.9161283397206731
+combine_test/NSF-metadata.xlsx,combine_test/QSrank.txt,0.8806411793974165
+combine_test/updated_bik_with_features.csv,combine_test/Colleges_and_Universities.csv,0.99994197348496
+combine_test/updated_bik_with_features.csv,combine_test/QSrank.txt,0.9864678090646088
+combine_test/Colleges_and_Universities.csv,combine_test/QSrank.txt,0.9864195275031312
