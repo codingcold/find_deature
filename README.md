@@ -1,4 +1,4 @@
-# find_deature]
+# find_feature
 The homework has three task, task4, task 5, task6, each task contains the solution in the files
 For each task files, there are readme text files, please read the text files first,
 
